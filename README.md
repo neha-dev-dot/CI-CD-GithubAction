@@ -72,7 +72,7 @@ node server.js
 ```
 
 ## 🧑‍💻 Author
-Neha Bharti
+Neha Bharti <br>
 Just experimenting and learning DevOps! 💡
 
 
